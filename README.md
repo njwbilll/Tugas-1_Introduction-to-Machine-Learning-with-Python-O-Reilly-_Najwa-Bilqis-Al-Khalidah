@@ -17,7 +17,7 @@ dan visualisasi hasil.
 | NIM | 101032300186 |
 | Kelas | TK-46-GAB |
 | Mata Kuliah | Machine Learning |
-| Referensi | Introduction to Machine Learning with Python -- Andreas C. Muller & Sarah Guido (O'Reilly) |
+| Referensi | Introduction to Machine Learning with Python by Andreas C. Muller & Sarah Guido (O'Reilly) |
  
 ---
  
