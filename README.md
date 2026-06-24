@@ -297,16 +297,6 @@ Semua dataset diambil dari built-in scikit-learn, tidak perlu download terpisah.
  
 ---
  
-## Catatan Penting
- 
-- Semua penjelasan dalam Bahasa Indonesia
-- Tidak ada emoji atau em dash dalam kode maupun penjelasan
-- Setiap notebook bisa dijalankan secara independen
-- Random seed diset ke 42 untuk reprodusibilitas hasil
-- Kode mengikuti konvensi scikit-learn API: fit, predict, score
- 
----
- 
 ## Referensi
  
 Muller, A. C., & Guido, S. (2016).
